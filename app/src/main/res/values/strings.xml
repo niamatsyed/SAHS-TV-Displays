@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SAHS TV Display</string>
+    <string name="tv_url">https://www.swatacademic.com/admin/tv-display-public.php?key=SAHS2026TV</string>
+</resources>
